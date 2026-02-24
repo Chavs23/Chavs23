@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=250&section=header&text=CHAVS&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20Almaty,%20KZ&descAlignY=75&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=250&section=header&text=CHAVS&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Architect%20%7C%20Almaty,%20KZ&descAlignY=75&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Трансформирую+сложную+бизнес-логику+в+элегантный+код;0%25+Bullshit.+100%25+Engineering;Строю+архитектуру.+Оживляю+интерфейсы." alt="Typing Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Трансформирую+сложную+бизнес-логику+в+элегантный+код;0%25+Bullshit.+100%25+Engineering;Проектирую+отказоустойчивые+системы." alt="Typing Status" />
 </div>
 
 <p align="center">
@@ -13,21 +13,15 @@
 <br/>
 
 <div align="center">
-  <h3>⚡ Текущий Фокус & Проекты</h3>
-  <p><i>Над чем я работаю прямо сейчас</i></p>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>🛡 ai-phish-tank</b><br>
-        <i>Среда анализа безопасности (Go, Docker)</i>
-      </td>
-      <td align="center" width="50%">
-        <b>🎨 Artelle Studio</b><br>
-        <i>Креативная платформа (Astro, React)</i>
-      </td>
-    </tr>
-  </table>
+  <h3>⚡ Текущий Фокус & R&D</h3>
+  <p><i>Весь старый код отправлен в архив. Сейчас я проектирую решения нового уровня:</i></p>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Microservices_&_Clean_Architecture-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-High--Performance_SSR_&_SPA-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/DevOps-Zero--Downtime_Deployments-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 <br/>
 
