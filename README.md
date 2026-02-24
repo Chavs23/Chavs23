@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Chavs+👋;Full+Stack+Developer;System+Builder;Based+in+Almaty%2C+KZ" alt="Typing SVG" />
 
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/Chavs23">
+      <img src="https://komarev.com/ghpvc/?username=Chavs23&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views" />
     </a>
   </p>
 </div>
@@ -27,7 +27,9 @@ I am focused on building scalable, production-grade systems from the ground up. 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,react,astro,tailwind,docker,linux,kubernetes,postgres,redis,nginx,git,github&perline=8" alt="Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,react,astro,tailwind,docker,linux,kubernetes,postgres,redis,nginx,git,github&perline=8" alt="Tech Stack" />
+  </a>
 </div>
 
 ---
@@ -45,12 +47,12 @@ I am focused on building scalable, production-grade systems from the ground up. 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&border_radius=0" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&border_radius=0" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chavs23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&border_radius=0" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs23&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&border_radius=0" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&bg_color=0D1117&border_radius=0" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chavs23&theme=github-dark&hide_border=true&bg_color=0D1117&border_radius=0" alt="Activity Graph" />
 </div>
 
 ---
@@ -74,7 +76,7 @@ I am focused on building scalable, production-grade systems from the ground up. 
   <a href="https://threads.net/@morda.dev">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM">
+  <a href="mailto:devmorda@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
