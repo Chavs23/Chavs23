@@ -4,39 +4,44 @@
 
 ## ⚡ Full Stack Engineering | High-Performance Systems
 
-Я строю архитектуру бэкенда на **Go** с упором на производительность и создаю плавные интерфейсы, которые приятно трогать. Живу и коду в **Алматы** 🇰🇿.
+Я строю архитектуру бэкенда на **Go** с упором на производительность и создаю современные интерфейсы, которые приятно трогать. Живу и пишу код в **Алматы** 🇰🇿.
 
 ---
 
 ### 🛠 My Tech Universe
 
 #### 🏗 Backend & Infrastructure
-`Golang` • `PostgreSQL` • `Redis` • `Docker` • `Kubernetes` • `gRPC` • `Microservices`
+`Golang` • `PostgreSQL` • `Redis` • `Docker` • `Kubernetes`
 
 #### 🎨 Frontend & Design
-`React` • `TypeScript` • `Astro` • `Next.js` • `TailwindCSS` • `Framer Motion`
+`React` • `TypeScript` • `Astro` • `Next.js` • `TailwindCSS`
 
 #### ⚙️ Automation & Tools
-`Git` • `GitHub Actions` • `Linux` • `Nginx` • `Terraform`
+`Git` • `GitHub Actions` • `Linux` • `Nginx`
 
 ---
 
 ### 📊 GitHub Activity Snapshot
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chavs23&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=ffffff" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs23&layout=compact&theme=transparent&hide_border=true&title_color=FF5D01&text_color=ffffff" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chavs23&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chavs23&theme=transparent&hide_border=true&stroke=00ADD8&ring=FF5D01&fire=FF5D01&currStreakLabel=00ADD8" width="700" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chavs23&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
-<p align="left">
-<a href="https://t.me/твой_ник" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:твой_email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
-<img src="https://raw.githubusercontent.com/Chavs23/Chavs23/main/snake.svg" />
+Открыт к интересным проектам и нетворкингу. Буду рад обсудить архитектуру, чистый код или новые идеи!
+
+<p align="left">
+  <a href="https://t.me/lxvsshall" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.threads.net/@morda.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+</p>
