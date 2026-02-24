@@ -2,39 +2,51 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=250&section=header&text=CHAVS&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20Almaty,%20KZ&descAlignY=75&descAlign=50" alt="Header" />
 </div>
 
-<h3 align="center">
-  Архитектура. Производительность. Масштабируемость.
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Трансформирую+сложную+бизнес-логику+в+элегантный+код;0%25+Bullshit.+100%25+Engineering;Строю+архитектуру.+Оживляю+интерфейсы." alt="Typing Status" />
+</div>
 
 <p align="center">
-  Я создаю комплексные web-решения, контролируя весь цикл разработки — от проектирования баз данных и микросервисов до реактивных пользовательских интерфейсов. Мой фокус: надежный бэкенд, быстрый фронтенд и грамотный DevOps.
+  Я не просто закрываю таски — я проектирую цифровые экосистемы. Отказоустойчивый бэкенд на <b>Go</b>, автоматизированный DevOps и UI, который уважает время пользователя. Моя философия: <i>чистая архитектура, минимум зависимостей, максимум производительности.</i>
 </p>
 
 <br/>
 
 <div align="center">
+  <h3>⚡ Текущий Фокус & Проекты</h3>
+  <p><i>Над чем я работаю прямо сейчас</i></p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>🛡 ai-phish-tank</b><br>
+        <i>Среда анализа безопасности (Go, Docker)</i>
+      </td>
+      <td align="center" width="50%">
+        <b>🎨 Artelle Studio</b><br>
+        <i>Креативная платформа (Astro, React)</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🛠 Технологический Арсенал</h3>
-  <p><i>Инструменты, которые я использую для решения бизнес-задач</i></p>
+  <p><i>Мои основные инструменты для решения бизнес-задач</i></p>
 </div>
 
 <p align="center">
   <b>[ Backend & Data ]</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,python,postgres,mongodb,redis&theme=dark" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,linux,nginx&theme=dark" alt="Backend Stack" />
   </a>
 </p>
 
 <p align="center">
   <b>[ Frontend & UI ]</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,astro,tailwind,nextjs,vite&theme=dark" alt="Frontend Stack" />
-  </a>
-</p>
-
-<p align="center">
-  <b>[ DevOps & Infrastructure ]</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,githubactions&theme=dark" alt="DevOps Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,react,astro,tailwind,nextjs,vite&theme=dark" alt="Frontend Stack" />
   </a>
 </p>
 
