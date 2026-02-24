@@ -1,29 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=%3E+_whoami;;%3E+_Chavs+-+Full+Stack+Engineer;;%3E+_Building+systems+with+Go+%26+React;;%3E+_Based+in+Almaty,+KZ" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=CHAVS&fontSize=80&fontColor=ffffff&fontAlignY=50&desc=Full%20Stack%20Architect%20%7C%20Almaty,%20KZ&descAlignY=80&descAlign=50" />
 </div>
 
 <br/>
 
-### 👨‍💻 `profile.go`
-Я создаю надежные системы и современные интерфейсы. Вместо долгих описаний — структуры данных.
-
-```go
-package main
-
-type Developer struct {
-	Name       string
-	Role       string
-	Location   string
-	Focus      []string
-	Status     string
-}
-
-func initProfile() Developer {
-	return Developer{
-		Name:     "Chavs",
-		Role:     "Full Stack Engineer",
-		Location: "Almaty, Kazakhstan 🇰🇿",
-		Focus:    []string{"High-Load Backend", "Modern Frontend", "DevOps"},
-		Status:   "Open to interesting challenges & networking",
-	}
-}
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>⚡ CORE ENGINE</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker&theme=dark&perline=2" />
+      </td>
+      <td align="center" width="50%">
+        <b>🎨 INTERFACES</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,ts,astro,tailwind&theme=dark&perline=2" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br/><b>📡 COMMLINK</b><br/><br/>
+        <a href="https://t.me/lxvsshall"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="https://www.threads.net/@morda.dev"><img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
